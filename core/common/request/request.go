@@ -6,6 +6,7 @@ import (
 	"net/http"
 	"os"
 
+	simplejson "github.com/bitly/go-simplejson"
 	"github.com/yanghahaha/go_spider/core/common/mlog"
 )
 
