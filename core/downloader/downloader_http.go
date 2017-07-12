@@ -4,6 +4,7 @@ import (
 	"bytes"
 
 	"github.com/PuerkitoBio/goquery"
+	simplejson "github.com/bitly/go-simplejson"
 	//    iconv "github.com/djimenez/iconv-go"
 	"github.com/yanghahaha/go_spider/core/common/mlog"
 	"github.com/yanghahaha/go_spider/core/common/page"
