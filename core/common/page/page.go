@@ -7,6 +7,7 @@ import (
 	"strings"
 
 	"github.com/PuerkitoBio/goquery"
+	simplejson "github.com/bitly/go-simplejson"
 	"github.com/yanghahaha/go_spider/core/common/mlog"
 	"github.com/yanghahaha/go_spider/core/common/page_items"
 	"github.com/yanghahaha/go_spider/core/common/request"
